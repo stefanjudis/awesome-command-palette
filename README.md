@@ -9,7 +9,8 @@ A list of awesome command palette implementations.
 
 ## Apps implementing a command palette
 
-- [Visual Studio Code](https://code.visualstudio.com/) – <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd>
+- [Visual Studio Code](https://code.visualstudio.com/) – <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
+- Chrome Developer Tools – <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 
 ## Libraries 
 
