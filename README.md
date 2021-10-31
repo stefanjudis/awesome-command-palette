@@ -15,6 +15,8 @@
 - Chrome Developer Tools – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 - [Discord](https://discord.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Figma](https://figma.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>/</kbd> or <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
+- [Linear](https://linear.app) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Slack](https://slack.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Libraries
 
