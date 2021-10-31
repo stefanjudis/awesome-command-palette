@@ -1,6 +1,6 @@
-# awesome-command-palette
+# Awesome Command Palette
 
-A list of awesome command palette implementations.
+> A list of awesome command palette implementations.
 
 ## Sites implementing a command palette
 
