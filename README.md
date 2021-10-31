@@ -14,6 +14,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 - Chrome Developer Tools – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 - [Discord](https://discord.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Figma](https://figma.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>/</kbd> or <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
 
 ## Libraries
 
