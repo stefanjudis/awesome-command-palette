@@ -13,7 +13,7 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 - Chrome Developer Tools – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
-- [Discord](https://discord.com) - <kbd>CTRL / CMD </kbd> + <kbd>k</kbd>
+- [Discord](https://discord.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Libraries
 
