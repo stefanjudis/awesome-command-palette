@@ -8,6 +8,7 @@
 
 - [GitHub](https://github.com) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Vercel](https://vercel.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Netlify](https://www.netlify.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> (turn it on in "Netlify Labs" section)
 
 ## Apps implementing a command palette
 
