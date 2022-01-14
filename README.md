@@ -10,6 +10,10 @@
 - [Vercel](https://vercel.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Netlify](https://www.netlify.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> (turn it on in "Netlify Labs" section)
 
+## Browser extensions adding a command palette
+
+- [Omni](https://github.com/alyssaxuu/omni) (Chrome extension)
+
 ## Apps implementing a command palette
 
 - [Visual Studio Code](https://code.visualstudio.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
