@@ -23,6 +23,7 @@
 - [Figma](https://figma.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>/</kbd> or <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
 - [Linear](https://linear.app) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Slack](https://slack.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Spotify](https://spotify.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Libraries
 
