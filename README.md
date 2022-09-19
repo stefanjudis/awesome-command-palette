@@ -33,3 +33,4 @@
 - [scoutbar](https://github.com/adenekan41/scoutbar) - A User-friendly, easy-to-use, scalable, and highly customizable component for automating your command+k experience.
 - [kmenu](https://github.com/harshhhdev/kmenu) - An animated and accessible cmd+k interface.
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, composable, unstyled command menu for React.
+- [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
