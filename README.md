@@ -10,6 +10,8 @@
 - [Vercel](https://vercel.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Netlify](https://www.netlify.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> (turn it on in "Netlify Labs" section)
 - [Sentry](https://sentry.io) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Datadog](https://app.datadoghq.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [CircleCI](https://app.circleci.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Browser extensions adding a command palette
 
