@@ -16,6 +16,7 @@
 ## Browser extensions adding a command palette
 
 - [Omni](https://github.com/alyssaxuu/omni) (Chrome extension)
+- [hackbar](https://github.com/uier/hackbar) (Chrome extension) for using kbar in HackMD
 
 ## Apps implementing a command palette
 
@@ -27,12 +28,17 @@
 - [Slack](https://slack.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Spotify](https://spotify.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [PHPStorm / Webstorm / Jetbrains IDEs in general](https://www.jetbrains.com/) - Quick press <kbd>Shift</kbd> twice
+- [Arc](https://arc.net/) - A browser having built-in command palette
+
+## Command palette for OS
+- [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
 
 ## Libraries
 
 - [kbar](https://github.com/timc1/kbar) – A portable, extensible and React-based -  cmd+k interface for your site.
 - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [react-command-palette](https://github.com/asabaylus/react-command-palette) -  An accessible browser compatible javascript command palette
+- [vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - A fast, composable, unstyled command palette interface for Vue.
 - [scoutbar](https://github.com/adenekan41/scoutbar) - A User-friendly, easy-to-use, scalable, and highly customizable component for automating your command+k experience.
 - [kmenu](https://github.com/harshhhdev/kmenu) - An animated and accessible cmd+k interface.
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, composable, unstyled command menu for React.
