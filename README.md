@@ -32,7 +32,7 @@
 
 ## Command palette for OS
 - [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
-- [Harmonize](https://www.getharmonize.app/) a turbocharged spotify command palette (macOS only)
+- [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette (MacOS only)
 
 ## Libraries
 
