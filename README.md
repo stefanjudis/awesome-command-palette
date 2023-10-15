@@ -12,6 +12,7 @@
 - [Sentry](https://sentry.io) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Datadog](https://app.datadoghq.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [CircleCI](https://app.circleci.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Todoist](https://todoist.com/app/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Browser extensions adding a command palette
 
