@@ -17,6 +17,7 @@
 ## Browser extensions adding a command palette
 
 - [Omni](https://github.com/alyssaxuu/omni) (Chrome extension)
+- [Vimium](https://github.com/philc/vimium) (Chrome and Firefox extension)
 - [hackbar](https://github.com/uier/hackbar) (Chrome extension) for using kbar in HackMD
 
 ## Apps implementing a command palette
@@ -35,7 +36,6 @@
 
 ## Command palette for OS
 - [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
-- [Alfred](https://www.alfredapp.com/) a productivity app with lots of custom actions to control your Mac. (MacOS only)
 - [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette (MacOS only)
 
 ## Libraries
