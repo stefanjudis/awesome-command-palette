@@ -33,6 +33,7 @@
 - [Spotify](https://spotify.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [PHPStorm / Webstorm / Jetbrains IDEs in general](https://www.jetbrains.com/) - Quick press <kbd>Shift</kbd> twice
 - [Arc](https://arc.net/) - A browser having built-in command palette
+- [Obsidian](https://obsidian.md) - <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
 
 ## Command palette for OS
 - [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
