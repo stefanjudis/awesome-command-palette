@@ -13,6 +13,7 @@
 - [Datadog](https://app.datadoghq.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [CircleCI](https://app.circleci.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Todoist](https://todoist.com/app/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [Webflow](https://webflow.com/) -  <kbd>Ctrl / Cmd</kbd> + <kbd>e</kbd>
 
 ## Browser extensions adding a command palette
 
