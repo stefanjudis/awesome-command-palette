@@ -48,6 +48,7 @@
 
 - [kbar](https://github.com/timc1/kbar) – A portable, extensible and React-based - cmd+k interface for your site.
 - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
+- [astro-command-palette](https://github.com/pauchiner/astro-command-palette) - A minimal command palette for Astro with 0 dependencies.
 - [react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
 - [vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - A fast, composable, unstyled command palette interface for Vue.
 - [scoutbar](https://github.com/adenekan41/scoutbar) - A User-friendly, easy-to-use, scalable, and highly customizable component for automating your command+k experience.
