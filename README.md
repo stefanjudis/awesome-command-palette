@@ -40,9 +40,10 @@
 
 ## Command palette for OS
 
-- [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
-- [Alfred](https://www.alfredapp.com/) a productivity app with lots of custom actions to control your Mac. (MacOS only)
-- [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette (MacOS only)
+- [Raycast](https://www.raycast.com/) - a blazingly fast, totally extendable launcher (currently MacOS only).
+- [Sol](https://sol.ospfranco.com/) - an open source app and command launcher (currently MacOS only).
+- [Alfred](https://www.alfredapp.com/) - a productivity app with lots of custom actions to control your Mac. (MacOS only).
+- [Harmonize](https://www.getharmonize.app/) - a turbocharged Spotify command palette (MacOS only).
 
 ## Libraries
 
