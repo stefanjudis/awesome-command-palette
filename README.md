@@ -56,3 +56,5 @@
 - [kmenu](https://github.com/harshhhdev/kmenu) - An animated and accessible cmd+k interface.
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, composable, unstyled command menu for React.
 - [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
+- [command-pal](https://github.com/benwinding/command-pal) - The hackable command palette for the web, inspired by Visual Studio Code.
+
