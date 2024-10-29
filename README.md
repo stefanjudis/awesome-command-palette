@@ -37,6 +37,7 @@
 - [PHPStorm / Webstorm / Jetbrains IDEs in general](https://www.jetbrains.com/) - Quick press <kbd>Shift</kbd> twice
 - [Arc](https://arc.net/) - A browser having built-in command palette
 - [Obsidian](https://obsidian.md) - <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
+- [Brows](https://brows.app) - <kbd>Ctrl</kbd> + <kbd>l</kbd>
 
 ## Command palette for OS
 
