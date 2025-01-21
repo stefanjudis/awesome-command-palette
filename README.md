@@ -16,6 +16,7 @@
 - [Webflow](https://webflow.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>e</kbd>
 - [PostHog](https://posthog.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Stripe Docs](https://docs.stripe.com) - <kbd>/</kbd>
+- [Metabase](https://www.metabase.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Browser extensions adding a command palette
 
