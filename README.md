@@ -6,15 +6,15 @@
 
 ## Sites implementing a command palette
 
-- [GitHub](https://github.com) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
-- [Vercel](https://vercel.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
-- [Netlify](https://www.netlify.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> (turn it on in "Netlify Labs" section)
+- [GitHub](https://github.com) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> ([Docs](https://docs.github.com/en/get-started/accessibility/github-command-palette))
+- [Vercel](https://vercel.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> ([Docs](https://vercel.com/docs/dashboard-features/command-menu#using-the-command-menu-))
+- [Netlify](https://www.netlify.com/) – <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> (turn it on in "Netlify Labs" section) ([Docs](https://docs.netlify.com/welcome/command-palette/))
 - [Sentry](https://sentry.io) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Datadog](https://app.datadoghq.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [CircleCI](https://app.circleci.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Todoist](https://todoist.com/app/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Webflow](https://webflow.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>e</kbd>
-- [PostHog](https://posthog.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
+- [PostHog](https://posthog.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> ([Docs](https://posthog.com/docs/cmd-k))
 - [Stripe Docs](https://docs.stripe.com) - <kbd>/</kbd>
 - [Metabase](https://www.metabase.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
