@@ -60,3 +60,6 @@
 - [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
 - [command-pal](https://github.com/benwinding/command-pal) - The hackable command palette for the web, inspired by Visual Studio Code.
 
+## Command palette for terminal
+
+- [cmdk](https://github.com/mieubrisse/cmdk) - Cmd+k in the terminal to access any file and `cd` to any directory, from anywhere
