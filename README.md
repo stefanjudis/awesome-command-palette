@@ -17,7 +17,7 @@
 - [PostHog](https://posthog.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> ([Docs](https://posthog.com/docs/cmd-k))
 - [Stripe Docs](https://docs.stripe.com) - <kbd>/</kbd>
 - [Metabase](https://www.metabase.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
-- [Liam ERD](https://liambx.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd> ([Docs](https://liambx.com/docs/ui-features/command-palette))
+- [Liam ERD](https://liambx.com/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 
 ## Browser extensions adding a command palette
 
