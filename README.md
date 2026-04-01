@@ -65,3 +65,7 @@
 ## Command palette for terminal
 
 - [cmdk](https://github.com/mieubrisse/cmdk) - Cmd+k in the terminal to access any file and `cd` to any directory, from anywhere
+
+## Games
+- [dcs-command-palette](https://github.com/juanjux/dcs-command-palette) - A command palette for the DCS World combat flight simulator using DCS-BIOS.
+
