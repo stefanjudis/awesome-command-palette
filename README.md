@@ -24,6 +24,7 @@
 - [Omni](https://github.com/alyssaxuu/omni) (Chrome extension)
 - [Vimium](https://github.com/philc/vimium) (Chrome and Firefox extension)
 - [hackbar](https://github.com/uier/hackbar) (Chrome extension) for using kbar in HackMD
+- [Lumno](https://github.com/kubai087/lumno-extension) (Chrome, Edge and Firefox extension) – search open tabs, bookmarks and history from any page with <kbd>Ctrl / Cmd</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd>
 
 ## Apps implementing a command palette
 
