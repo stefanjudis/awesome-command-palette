@@ -40,6 +40,7 @@
 - [Arc](https://arc.net/) - A browser having built-in command palette
 - [Obsidian](https://obsidian.md) - <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
 - [Brows](https://brows.app) - <kbd>Ctrl</kbd> + <kbd>l</kbd>
+- [Spool](https://github.com/wes/spool) - <kbd>Cmd</kbd> + <kbd>k</kbd>
 
 ## Command palette for OS
 
